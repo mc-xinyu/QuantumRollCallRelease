@@ -1,2 +1,0 @@
-# QuantumRollCallRelease
-QuantumRollCall发行版
